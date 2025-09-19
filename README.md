@@ -20,6 +20,13 @@ I'm an aspiring Data Analyst passionate about turning raw data into meaningful i
 - Real business case studies  
 - Advanced Power BI DAX and visuals
 
+🚀 Featured Projects  
+
+- 🚖 [Uber Supply–Demand Gap](https://github.com/TheDikshaVerse/Uber-Supply-Demand-Gap)  
+- 🏠 [Dubai House Price Analysis](https://github.com/TheDikshaVerse/Dubai-House-Price-Analysis)  
+- 🏨 [Hotel Booking Analysis](https://github.com/TheDikshaVerse/Hotel-Booking-Analysis)  
+
+
 📬 Let's connect:  
 Feel free to check out my projects and give feedback. I'm always learning and growing!
 
